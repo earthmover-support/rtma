@@ -1,0 +1,6 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# Ignore Jupyter Checkpoints
+*.ipynb_checkpoints
