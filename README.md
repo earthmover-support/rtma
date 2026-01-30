@@ -43,7 +43,7 @@ pixi run coiled-notebook
 This starts a Jupyter notebook on Coiled with 32GB memory in us-east-1 region.
 
 ## Working with the dataset
-You can explore the data repository in the [app](https://app.earthmover.io/earthmover/rtma/tree/main/test-ingestion-cooperative-write), use [Flux]() to e.g. generate [Web Map Tiles](https://app.earthmover.io/earthmover/rtma/data-access/main/test-ingestion-cooperative-write?method=tiles) or load it via the python client 
+You can explore the data repository in the [app](https://app.earthmover.io/earthmover/rtma/tree/main/test-ingestion-cooperative-write), use [Flux](https://docs.earthmover.io/flux) to e.g. generate [Web Map Tiles](https://app.earthmover.io/earthmover/rtma/data-access/main/test-ingestion-cooperative-write?method=tiles) or load it via the python client 
 
 ### Working with the dataset in xarray
 
